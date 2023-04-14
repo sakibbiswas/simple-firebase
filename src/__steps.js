@@ -12,5 +12,7 @@
 11:import { GoogleAuthProvider } and create
 
 const provider = new GoogleAuthProvider();
+12: use signInWithpopup and pass auth and provider
+13:Activate sign in method(google,facebook,github,twiter);
 
 */
