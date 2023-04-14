@@ -1,4 +1,7 @@
 /* 
+           ------------------------------
+                     INITIAL SETUP
+           _______________________________          
 1:console.firebase.google.com
 2:Create project(skip google analytics)
 3:Register app (Create config)
